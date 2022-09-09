@@ -4,7 +4,7 @@
 
 - 🔭 I’m pursuing Masters in Computer Science at **Georgia Tech**.
 
-- Currect Courses: **CS 6340: Software Analysis** and **ISYE 6501: Intro to Analytics Modeling** on 
+- Currect Courses: **CS 6340: Software Analysis** and **ISYE 6501: Intro to Analytics Modeling** 
 
 - 🌱 I’m currently learning **R, C++, LLVM, Java**
 
