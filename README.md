@@ -34,6 +34,7 @@ Libraries/Frameworks: BootStrap, Flask, Node, Express, React, Spring Boot, Sprin
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask" />
 </div>
 
+<br>
 Databases: Amazon RDS for Oracle, Microsoft SQL Server, PostgreSQL, MySQL, MongoDB and SQLite
 <div>
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL" />
@@ -42,6 +43,7 @@ Databases: Amazon RDS for Oracle, Microsoft SQL Server, PostgreSQL, MySQL, Mongo
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB" />
 </div>
 
+<br>
 Tools: Visual Studio Code, Git + GitHub, Microsoft Office Suite, Postman, Eclipse, AWS
 <div>
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />
