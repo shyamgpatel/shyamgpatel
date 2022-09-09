@@ -1,1 +1,8 @@
 <h1>Hi there 👋 Welcome to my GitHub!</h1>
+
+
+- 🔭 I’m currently working on [My Jobs Applicating tracking app](https://github.com/shyamkumarpatel/job-compare-app)
+
+- 🌱 I’m currently learning **R, C++, LLVM, Java**
+
+- 📫 How to reach me <a href="https://www.linkedin.com/in/shyamkumar-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shyam Patel" height="30" width="40" /></a>
