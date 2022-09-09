@@ -11,9 +11,9 @@
 - 📫 Reach out to me via <a href="https://www.linkedin.com/in/shyamkumar-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shyam Patel" height="30" width="40" /></a>
 
 <hr>
-TECHNICAL SKILLS
-Languages: 
-<div align="center">
+<h2>TECHNICAL SKILLS</h2>
+<p>**Languages:**</p>
+<div>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
