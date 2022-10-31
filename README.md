@@ -1,4 +1,4 @@
-<h1>Hi there 👋 Welcome to my GitHub!</h1>
+<h1>Hello 👋 Welcome to my GitHub!</h1>
 
 - 🔭 I’m currently working on [My Jobs Applicating tracking app](https://github.com/shyamkumarpatel/job-compare-app)
 
