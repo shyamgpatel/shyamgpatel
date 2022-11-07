@@ -1,10 +1,10 @@
-<h1>Hello 👋 Welcome to my GitHub!</h1>
+<h1>Hello there 👋 Welcome to my GitHub!</h1>
 
 - 🔭 I’m currently working on [My Jobs Applicating tracking app](https://github.com/shyamkumarpatel/job-compare-app)
 
 - 🔭 I’m pursuing Masters in Computer Science at **Georgia Tech**.
 
-- Currect Courses: **CS 6340: Software Analysis** and **ISYE 6501: Intro to Analytics Modeling** 
+- Currect Courses: **ISYE 6501: Intro to Analytics Modeling** 
 
 - 🌱 I’m currently learning **R, C++, LLVM, Java**
 
