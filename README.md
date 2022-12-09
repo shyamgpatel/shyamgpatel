@@ -1,6 +1,6 @@
-<h1>Hi 👋 Welcome to my GitHub!</h1>
+<h1>Hi there 👋 Welcome to my GitHub!</h1>
 
-- 🔭 I’m currently working on [My Jobs Applicating tracking app](https://github.com/shyamkumarpatel/job-compare-app)
+- 🔭 I’m currently working on finding a job.
 
 - 🔭 I’m pursuing Masters in Computer Science at **Georgia Tech**.
 
