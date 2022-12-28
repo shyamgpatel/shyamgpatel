@@ -1,12 +1,12 @@
 <h1>Hi there 👋 Welcome to my GitHub!</h1>
 
-- 🔭 I’m currently working on finding a job.
+- 🔭 I’m currently working on Terraform tutorials.
 
 - 🔭 I’m pursuing Masters in Computer Science at **Georgia Tech**.
 
-- Currect Courses: **ISYE 6501: Intro to Analytics Modeling** 
+- Currect Course(s): **Software Analysis** 
 
-- 🌱 I’m currently learning **R, C++, LLVM, Java**
+- 🌱 I’m currently learning **C++, LLVM, and Java**
 
 - 📫 Reach out to me via <a href="https://www.linkedin.com/in/shyamkumar-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shyam Patel" height="30" width="40" /></a>
 
