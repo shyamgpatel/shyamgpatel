@@ -1,12 +1,12 @@
 <h1>Hi there 👋 Welcome to my GitHub!</h1>
 
-- 🔭 I’m currently working on Terraform tutorials.
+- 🔭 I’m currently working on AWS tutorials.
 
 - 🔭 I’m pursuing Masters in Computer Science at **Georgia Tech**.
 
-- Currect Course(s): **Software Analysis** 
+- Currect Course(s): **Introduction to Information Security** 
 
-- 🌱 I’m currently learning **C++, LLVM, and Java**
+- 🌱 I’m currently learning **AWS tools and Java**
 
 - 📫 Reach out to me via <a href="https://www.linkedin.com/in/shyamkumar-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shyam Patel" height="30" width="40" /></a>
 
