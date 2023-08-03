@@ -6,7 +6,7 @@
 
 - Currect Course(s): **None - Break** 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning: **React**
 
 - 📫 Reach out to me via <a href="https://www.linkedin.com/in/shyamkumar-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shyam Patel" height="30" width="40" /></a>
 
