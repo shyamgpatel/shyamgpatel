@@ -58,9 +58,9 @@ Tools: Visual Studio Code, Git + GitHub, Microsoft Office Suite, Postman, Eclips
 <hr>
 
 <a href="[![Top Langs]"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamkumarpatel&layout=compact&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgpatel&layout=compact&theme=buefy" />
 </a>
 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyamkumarpatel&show_icons=true&locale=en" alt="shyamkumarpatel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyamgpatel&show_icons=true&locale=en" alt="shyamkumarpatel" /></p>
