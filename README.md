@@ -55,12 +55,4 @@ Tools: Visual Studio Code, Git + GitHub, Microsoft Office Suite, Postman, Eclips
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS" />
 </div>
 
-<hr>
-
-<a href="[![Top Langs]"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamgpatel&layout=compact&theme=buefy" />
-</a>
-
-<hr>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyamgpatel&show_icons=true&locale=en" alt="shyamkumarpatel" /></p>
