@@ -54,5 +54,3 @@ Tools: Visual Studio Code, Git + GitHub, Microsoft Office Suite, Postman, Eclips
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183577745-799bb814-d819-4886-903c-a680bfcd5714.png" alt="eclipse" title="eclipse" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS" />
 </div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyamgpatel&show_icons=true&locale=en" alt="shyamkumarpatel" /></p>
